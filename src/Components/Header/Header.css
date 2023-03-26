@@ -9,7 +9,10 @@ header{
     text-align: center;
     height: 100%;
     position: relative;
-    
+}
+
+.header_container h1{
+    color: var(--color-primary);
 }
 
 /* ---------CTA---------- */
